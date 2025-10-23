@@ -2,7 +2,7 @@
 
 ## About me
 
-🎓 M.Sc. CS Student @ Saarland University  · Full Stack Developer
+🎓 B.Sc. CS Student @ Saarland University  · Full Stack Developer
 
 ---
 
