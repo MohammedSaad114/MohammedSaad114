@@ -2,7 +2,7 @@
 
 ## About me
 
-🎓 B.Sc. CS Student @ Saarland University  · Full Stack Developer
+![career](https://readme-typing-svg.herokuapp.com/?lines=B.Sc.%20CS%20Student%20@%20Saarland%20University;Full%20Stack%20Developer&width=500&height=50&color=ffffff)
 
 ---
 
