@@ -9,7 +9,7 @@
 ## Experience
 ### Solo Development
 I have designed, developed and deployed a trading platform for a Proprietary firm:
-* Trading Platform: https://app.opentrading.solutions/
+* Trading Platform 2024: https://app.opentrading.solutions/
   * Frontend: React TypeScript, Node.js
   * Backend:  Java, Spring
   * PostgreSQL
