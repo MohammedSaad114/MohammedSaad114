@@ -6,6 +6,25 @@
 
 ---
 
+## Experience
+### Solo Development
+I have designed, developed and deployed a trading platform for a Proprietary firm:
+* Trading Platform: https://app.opentrading.solutions/
+  * Frontend: React TypeScript, Node.js
+  * Backend:  Java, Spring
+  * PostgreSQL
+
+### Contribution
+I have also worked in small teams and contributed in:
+* Game Development 2021: https://play.google.com/store/apps/dev?id=5746184111538872438
+  * Unity, C#
+* Backtesting Software (Repla) 2025: https://beta.userepla.com/
+  * Frontend: React 18, TypeScript, Vite
+  * Backend: Go
+  * PostgreSQL 
+
+---
+
 ## Programming Languages
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo" title="C" />
