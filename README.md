@@ -10,8 +10,8 @@
 ### Solo Development
 I have designed, developed and deployed a trading platform for a Proprietary firm:
 * Trading Platform 2024: https://app.opentrading.solutions/
-  * Frontend: React TypeScript, Node.js
-  * Backend:  Java, Spring
+  * Frontend: React TypeScript
+  * Backend:  Java, Spring framework
   * PostgreSQL
 <p align="center">
  <img src="platform.png" width="500">
