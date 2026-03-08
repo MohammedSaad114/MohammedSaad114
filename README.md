@@ -23,7 +23,6 @@ I have also worked in small teams and contributed in:
   * Unity, C#
 * Backtesting Software (Repla) 2025: https://beta.userepla.com/
   * Frontend: React 18, TypeScript, Vite
-  * Backend: Go
   * PostgreSQL 
 
 ---
