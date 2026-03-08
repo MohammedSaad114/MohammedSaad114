@@ -9,10 +9,11 @@
 ## Experience
 ### Solo Development
 I have designed, developed and deployed a trading platform:
-* Trading Platform 2024: https://app.opentrading.solutions/
+* Trading Platform (OpenTrading) 2024: https://app.opentrading.solutions/
   * Frontend: React TypeScript
-  * Backend:  Java, Spring framework
+  * Backend:  Java, Spring framework, Cache-system to optimize API requests to data providers
   * PostgreSQL
+  * Third party APIs: Tradingview Advanced Charts, Twelve data (real market data)
 <p align="center">
  <img src="platform.png" width="500">
 </p>
@@ -23,7 +24,7 @@ I have also worked in small teams and contributed in:
   * Unity, C#
 * Backtesting Software (Repla) 2025: https://beta.userepla.com/
   * Frontend: React 18, TypeScript, Vite
-  * PostgreSQL 
+  * PostgreSQL
 
 ---
 
