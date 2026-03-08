@@ -2,7 +2,7 @@
 
 ## About me
 
-![career](https://readme-typing-svg.herokuapp.com/?lines=CS%20Student%20@%20Saarland%20University;Full%20Stack%20Developer&width=500&height=50&color=ffffff)
+![career](https://readme-typing-svg.herokuapp.com/?lines=CS%20Graduate%20@%20Saarland%20University;Full%20Stack%20Developer&width=500&height=50&color=ffffff)
 
 ---
 
@@ -13,6 +13,9 @@ I have designed, developed and deployed a trading platform for a Proprietary fir
   * Frontend: React TypeScript, Node.js
   * Backend:  Java, Spring
   * PostgreSQL
+<p align="center">
+ <img src="platform.png" width="500">
+</p>
 
 ### Contribution
 I have also worked in small teams and contributed in:
