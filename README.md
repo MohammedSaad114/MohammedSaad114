@@ -11,9 +11,11 @@
 I have designed, developed and deployed a trading platform:
 * Trading Platform (OpenTrading) 2024: https://app.opentrading.solutions/
   * Frontend: React TypeScript
-  * Backend:  Java, Spring framework, Cache-system to optimize API requests to data providers, Concurrent System to monitor take profit/stop loss
+  * Backend:  Java, Spring framework, Cache-system to optimize API requests to data providers, Asynchronous service to monitor take-profit / stop-loss triggers
   * PostgreSQL
+  * Deployed on Hostinger VPS using Nginx reverse proxy
   * Third party APIs: Tradingview Advanced Charts, Twelve data (real market data)
+ 
 <p align="center">
  <img src="platform.png" width="500">
 </p>
