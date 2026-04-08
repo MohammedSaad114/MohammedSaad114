@@ -9,7 +9,7 @@
 ## Experience
 ### Solo Development
 I have designed, developed and deployed a trading platform:
-* Trading Platform (OpenTrading) 2024: https://app.opentrading.solutions/
+* Trading Platform (OpenTrading) 2024:
   * Frontend: React TypeScript
   * Backend:  Java, Spring framework, Cache-system to optimize API requests to data providers, Asynchronous service to monitor take-profit / stop-loss triggers
   * PostgreSQL
