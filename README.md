@@ -7,7 +7,7 @@
 
 ---
 
-## Featured Contribution
+## Open Source Contribution
 
 #### **[BLE]** Handled WinRT Null Dereference in C++ Backend ([#457](https://github.com/thegecko/webbluetooth/pull/457) & [#1](https://github.com/thegecko/simpleble/pull/1))
 * **Issue:** When connecting to unpaired BLE devices outside the Windows system cache, `FromBluetoothAddressAsync` returns a null COM pointer, triggering a hardware SEH access violation (`0xC0000005`) that bypassed standard C++ `catch(...)` blocks and terminated the Node.js process.
