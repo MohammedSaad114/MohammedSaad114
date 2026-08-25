@@ -1,9 +1,8 @@
 👋 Hi, I'm Mohammed Saad
 
 ## About Me
-- Bachelor’s Degree in Computer Science (Universität des Saarlandes)  
-- Experienced in Frontend and Backend development  
 
+![career](https://readme-typing-svg.herokuapp.com/?lines=M.Sc.%20CS%20Student%20@%20Saarland%20University;Software%20Developer&width=500&height=50&color=ffffff)
 
 ---
 
