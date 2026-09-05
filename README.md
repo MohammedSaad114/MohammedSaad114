@@ -2,7 +2,7 @@
 
 ## About Me
 
-![career](https://readme-typing-svg.herokuapp.com/?lines=M.Sc.%20CS%20Student%20@%20Saarland%20University;Software%20Developer&width=500&height=50&color=ffffff)
+![career](https://readme-typing-svg.herokuapp.com/?lines=M.Sc.%20CS%20Student%20@%20Saarland%20University;Software%20Engineer&width=500&height=50&color=ffffff)
 
 ---
 
@@ -31,10 +31,10 @@ I have designed, developed and deployed a trading platform:
 I have also worked in small teams and contributed in:
 * Game Development 2021: https://play.google.com/store/apps/dev?id=5746184111538872438
   * Unity, C#
-* Backtesting Software 2025: https://beta.userepla.com/
+* Backtesting Software 2025
   * Frontend: React 18, TypeScript, Vite
   * PostgreSQL
-
+<!--
 ---
 
 ## Programming Languages
@@ -73,7 +73,7 @@ I have also worked in small teams and contributed in:
 
 
 
-<!--
+
 **MohammedSaad114/MohammedSaad114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
